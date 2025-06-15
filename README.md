@@ -24,7 +24,7 @@
 
 * 📖 **Master's Degree** in **Artificial Intelligence** and **Computer Vision** @[The University of Salerno](https://www.unisa.it/).  
 * 🎓 Conducted advanced **research** contributing to cutting-edge AI and computer vision technologies @[The University of Salerno](https://www.unisa.it/).  
-* 💻 **Advanced Machine Learning Engineer** focused on enterprise-level Generative AI solutions @[NTT DATA Italia S.p.A](https://www.nttdata.com/it/it/).  
+* 💻 **Advanced Machine Learning Engineer** focused on enterprise-level Generative AI solutions @[NTT DATA Italia S.p.A](https://www.nttdata.com/it/).  
 * 💼 Previously, **Machine Learning Specialist** developing innovative AI-driven solutions and predictive analytics @[Youbiquo srl](https://www.youbiquo.eu/).
 
 ---
