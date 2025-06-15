@@ -33,6 +33,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatoshiNakamoto99&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatoshiNakamoto99&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatoshiNakamoto99&theme=dracula)
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatoshiNakamoto99&theme=dracula" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatoshiNakamoto99&theme=dracula" alt="Most Commit Language" />
+</div>
