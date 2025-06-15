@@ -4,7 +4,7 @@
   </a>
   <br/>
 
-  <a href="https://antonionocerinoportfolio.netlify.app/">
+  <a href="https://ai-genius.xyz/about">
     <img src="https://img.shields.io/badge/Website-anto.dev-red?style=flat-square" alt="Portfolio Website" />
   </a>  
   <a href="https://www.linkedin.com/in/anocerino/">
